@@ -11,8 +11,8 @@ International Software Testing Qualification Board
  * [ACTS - Automated Combinatorila Testing for Software. Beschreibung zum Erhalt der Software](https://csrc.nist.gov/projects/automated-combinatorial-testing-for-software/downloadable-tools)
  * [ATB - Austrian Testing Board](https://www.austriantestingboard.at/)
  * [ATDD.en - Acceptance test-driven development](https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development)
- * [BDD.de - Behavior Driven Development-de](https://de.wikipedia.org/wiki/Behavior_Driven_Development)
- * [BDD.en - Behavior Driven Development-en](https://en.wikipedia.org/wiki/Behavior-driven_development)
+ * [BDD.de - Behavior Driven Development](https://de.wikipedia.org/wiki/Behavior_Driven_Development)
+ * [BDD.en - Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
  * [binKlassifikator.de](https://de.wikipedia.org/wiki/Beurteilung_eines_bin%C3%A4ren_Klassifikators)
 * [binKlassifikator.en](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers)
 * [Checkliste Anforderungsmanagment](https://www.openpm.info/display/openPM/Checkliste+Anforderungsmanagement)
@@ -65,8 +65,8 @@ International Software Testing Qualification Board
 * [UML - Unified Modeling Language, Version: 2.5.1, A specifiaction defining a graphical language for visualizin, specifying, constructing, and documenting the artifacts of dirstributed object sysetms, December 2017](https://www.uml.org/)
 * [V-Modell XT - Das V-Modell XT des Bundes](https://www.cio.bund.de/Web/DE/Architekturen-und-Standards/V-Modell-XT-Bund/vmodellxt_bund_node.html)
 * [Vorgehensmodel - Vorgehensmodell](https://de.wikipedia.org/wiki/Vorgehensmodell)
-* [xUni.en - List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
-* [xUni.de - List of unit testing frameworks](https://de.wikipedia.org/wiki/Liste_von_Modultest-Software)
+* [xUnit.en - List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
+* [xUnit.de - List of unit testing frameworks](https://de.wikipedia.org/wiki/Liste_von_Modultest-Software)
 
 #### Apps
 * [Android OS](https://play.google.com/store/apps/details?id=org.istqb.istqbglossary)
