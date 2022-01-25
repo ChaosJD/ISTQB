@@ -68,6 +68,6 @@ International Software Testing Qualification Board
 * [xUnit.en - List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
 * [xUnit.de - List of unit testing frameworks](https://de.wikipedia.org/wiki/Liste_von_Modultest-Software)
 
-#### Apps
+#### App ISTQB
 * [Android OS](https://play.google.com/store/apps/details?id=org.istqb.istqbglossary)
 * [iOS](https://play.google.com/store/apps/details?id=org.istqb.istqbglossary)
