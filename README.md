@@ -71,3 +71,6 @@ International Software Testing Qualification Board
 #### App ISTQB
 * [Android OS](https://play.google.com/store/apps/details?id=org.istqb.istqbglossary)
 * [iOS](https://play.google.com/store/apps/details?id=org.istqb.istqbglossary)
+
+#### Glossar
+* [Glossar Qualitätssicherung & Testmanagement](https://www.qmethods.de/glossar_qualitaetssicherung-test.html)
