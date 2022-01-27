@@ -74,3 +74,6 @@ International Software Testing Qualification Board
 
 #### Glossar
 * [Glossar Qualitätssicherung & Testmanagement](https://www.qmethods.de/glossar_qualitaetssicherung-test.html)
+
+#### Open Book
+* [Lean Testing für C++ Programmierer, unvollständig - ISO 29119](http://leantesting.de/Openbook_Testen.pdf)
